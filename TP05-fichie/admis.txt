@@ -1,0 +1,2 @@
+1,w,d,20,admis
+2,w,z,34,admis

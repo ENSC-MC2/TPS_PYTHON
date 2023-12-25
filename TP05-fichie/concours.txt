@@ -1,0 +1,5 @@
+NCIN, NOM, PRENOM, AGE, DECISION
+1,w,d,20,admis
+3,f,v,31,ajourne
+2,w,z,34,admis
+4,t,y,40,refuse
